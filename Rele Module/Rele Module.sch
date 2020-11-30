@@ -144,28 +144,6 @@ Wire Wire Line
 	4500 4550 3850 4550
 Connection ~ 3850 4550
 Wire Wire Line
-	4800 2550 4800 2400
-Wire Wire Line
-	4800 2400 6000 2400
-Wire Wire Line
-	6000 2400 6000 2650
-Wire Wire Line
-	6000 2750 5900 2750
-Wire Wire Line
-	5900 2750 5900 2450
-Wire Wire Line
-	5900 2450 5000 2450
-Wire Wire Line
-	5000 2450 5000 2550
-Wire Wire Line
-	6000 2850 5950 2850
-Wire Wire Line
-	5950 2850 5950 3200
-Wire Wire Line
-	5950 3200 4900 3200
-Wire Wire Line
-	4900 3200 4900 3150
-Wire Wire Line
 	2950 2850 3000 2850
 Wire Wire Line
 	3000 2850 3000 4550
@@ -252,4 +230,28 @@ F 3 "http://www.sanyourelay.ca/public/products/pdf/SRD.pdf" H 4700 2850 50  0001
 	1    4700 2850
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	6000 2750 5950 2750
+Wire Wire Line
+	5950 2750 5950 3200
+Wire Wire Line
+	5950 3200 4900 3200
+Wire Wire Line
+	4900 3200 4900 3150
+Wire Wire Line
+	6000 2850 5600 2850
+Wire Wire Line
+	5600 2850 5600 2450
+Wire Wire Line
+	5600 2450 4800 2450
+Wire Wire Line
+	4800 2450 4800 2550
+Wire Wire Line
+	5000 2400 5000 2550
+Wire Wire Line
+	5000 2400 5950 2400
+Wire Wire Line
+	6000 2650 5950 2650
+Wire Wire Line
+	5950 2650 5950 2400
 $EndSCHEMATC
