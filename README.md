@@ -23,27 +23,26 @@ Quantity|Name|Digikey Code|Kicad Library
 01|Sanyou SRD Form C|[PB2032-ND](https://www.digikey.com.mx/product-detail/es/te-connectivity-potter-brumfield-relays/ORWH-SH-105D1F-000/PB2032-ND/4925028)|Relay
 01|2N3904|[2N3904FS-ND](https://www.digikey.com.mx/product-detail/es/on-semiconductor/2N3904BU/2N3904FS-ND/1413)|Transistor BJT
 
-## Autors ✒️
-* **Black Aspid** - *Trabajo Inicial*, *Documentación* - [blackaspid](https://github.com/BlackAspid)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-<!-- ### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
+### Setting up 🔧
+_Clone this repository_
 
 ```
-Da un ejemplo
+git clone https://github.com/BlackAspid/Rele_Module.git
 ```
 
-_Y repite_
+_Open Kicad program_
 
-```
-hasta finalizar
-```
+![Kicad Logo](/IMG/kicadlogo.png)
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_Press File -> Open project (Ctrl + O)_
+
+![Kicad Interface](/IMG/kicadinterface.png)
+
+_Select file .pro_
+
+![Kicad file .pro](/IMG/kicadfile.png)
+
+_Here we go that's all, you can add or remove things_
 
 ## Ejecutando las pruebas ⚙️
 
@@ -91,18 +90,21 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 
 
-<!-- ## Licencia 📄
+## Licencia 📄
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁<!--  -->
 
-<!-- * Comenta a otros sobre este proyecto 📢
+* Comenta a otros sobre este proyecto 📢
 * Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
 * etc.
 
 
+## Autors ✒️
+* **Black Aspid** - *Trabajo Inicial*, *Documentación* - [blackaspid](https://github.com/BlackAspid)
 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto.  -->
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊 --> 
+⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊 
